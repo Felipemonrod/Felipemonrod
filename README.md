@@ -1,6 +1,9 @@
 ## 
-- My name is Felipe
-- I'm a brazilian student of Internet Systems at 'Instituto Federal Goiano - Campus Morrinhos' 
+- Olá meu nome é Felipe
+- Sou desenvolvedor web, empenhado no aprimoramento constante e na busca por novos conhecimentos. Iniciei minha jornada 
+profissional recentemente e, ao longo de um ano de experiência após a conclusão da formação, acumulei experiências 
+significativas no desenvolvimento de projetos e sites solicitados. Estou comprometido em aplicar e expandir o 
+conhecimento adquirido para ser um bom profissional na área de desenvolvimento web.' 
 # 
 <div>
 <br>
