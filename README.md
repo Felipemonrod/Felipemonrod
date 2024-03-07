@@ -1,16 +1,16 @@
-### Hi there 👋
+## 
+- My name is Felipe
+- I'm a brazilian student of Internet Systems at 'Instituto Federal Goiano - Campus Morrinhos' 
+# 
+<div>
+<br>
+<a href="https://github.com/ludige">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludige&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<!--
-**Felipemonrod/Felipemonrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<br>
+<!--<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>-->
+</div>
